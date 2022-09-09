@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeongysu@gmail.com)](jeongysu@gmail.com) 
 <br/><br/><br/><br/><br/><br/>
 
+ <div align="left">
 
 ## SoftWare Engineer
 Hello, I am Youngsu Joung(a.k.a. neogulmon), a server developer who communicates and collaborates passionately.<br/>
