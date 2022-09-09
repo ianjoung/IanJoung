@@ -51,3 +51,4 @@ Hello, I am Youngsu Joung(a.k.a. neogulmon), a server developer who communicates
 
 <image src="https://img.shields.io/github/followers/ksh030506?style=social"> <image src="https://img.shields.io/github/stars/ksh030506?style=social"> 
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
