@@ -28,8 +28,3 @@ Hello, I am Youngsu Joung(a.k.a. neogulmon), a server developer who communicates
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon&logoColor=white"/></a> 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joungyoungsu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<image src="https://img.shields.io/github/followers/ksh030506?style=social"> <image src="https://img.shields.io/github/stars/ksh030506?style=social"> 
-
