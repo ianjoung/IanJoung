@@ -1,5 +1,5 @@
 <div align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JoungYoungSu&show_icons=true&theme=radical"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoungYoungSu&layout=compact"/>
 
 ### 🐣 Youngsu Joung 🐥  <br/>
 
