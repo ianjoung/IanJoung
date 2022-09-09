@@ -1,5 +1,5 @@
 <div align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoungYoungSu&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&layout=compact"/>
 
 ### 🐣 Youngsu Joung 🐥  <br/>
 
