@@ -10,7 +10,7 @@
 
 ## SoftWare Engineer
 Hello, I am Youngsu Joung(a.k.a. neogulmon), a server developer who communicates and collaborates passionately.<br/>
-🌱 I’m currently learning ... Java/Spring-Boot, Blockchain.<br/>
+🌱 I’m currently studying ... React, Blockchain.<br/>
 
 ## Interest
 ⛅  Back-end skills such as Spring/Spring-Boot, Node.js, Express/Koa etc.<br/>
