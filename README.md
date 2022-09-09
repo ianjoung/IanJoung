@@ -1,6 +1,6 @@
 <div align="center">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoungYoungSu&theme=dracula&layout=compact"/>
-  [![JoungYoungSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoungYoungsu)]
+[JoungYoungSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoungYoungsu)]
   
 ### 🐣 Youngsu Joung 🐥  <br/>
 
