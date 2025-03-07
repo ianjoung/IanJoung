@@ -1,21 +1,20 @@
 <div align="center">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoungYoungSu&layout=compact"/>
 
-### 🐣 Youngsu Joung 🐥  <br/>
+### Ian Joung <br/>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeongysu@gmail.com)](mailto:jeongysu@gmail.com) 
 <br/><br/><br/><br/><br/><br/>
 
  <div align="left">
 
-## SoftWare Engineer
-Hello, I am Youngsu Joung(a.k.a. neogulmon), a server developer who communicates and collaborates passionately.<br/>
-🌱 I’m currently studying ... React, Blockchain.<br/>
+## Not working as a dev for now :)
+Transfered my industry/role to blockchain/BD <br/>
 
 ## Interest
-⛅  Back-end skills such as Spring/Spring-Boot, Node.js, Express/Koa etc.<br/>
-💼  DevOps technologies such as AWS (ec2, Route 53, code deploy, RDS, etc), MySQL, MongoDB, etc<br/>
-👬  Communication (talk, play, exercise, code review, etc)<br/><br/>
+~~⛅  Back-end skills such as Spring/Spring-Boot, Node.js, Express/Koa etc.~~ <br/>
+~~💼  DevOps technologies such as AWS (ec2, Route 53, code deploy, RDS, etc), MySQL, MongoDB, etc~~<br/>
+~~👬  Communication (talk, play, exercise, code review, etc)~~ <br/><br/>
 
 ## My Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
