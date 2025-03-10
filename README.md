@@ -1,5 +1,4 @@
 <div align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoungYoungSu&layout=compact"/>
 
 ### Ian Joung <br/>
 
@@ -9,7 +8,8 @@
  <div align="left">
 
 ## Not working as a dev for now :)
-Transfered my industry/role to blockchain/BD <br/>
+Transferred my industry/role to **Blockchain / BD** <br/>
+Hustling💪 in **[XPLA Foundation](https://www.xpla.io/)** backed by **[Com2uS Holdings](https://us.com2us.com/holdings)** <br/>
 
 ## Interest
 ~~⛅  Back-end skills such as Spring/Spring-Boot, Node.js, Express/Koa etc.~~ <br/>
